@@ -239,10 +239,16 @@ Input text to rewrite:
 2. **Register a Tavily account** and get your API key
    🔗 https://app.tavily.com/home
 
-3. **Enable the Google Docs API**
+3. **Register a Google AI Studio account** and get your API key
+🔗 https://aistudio.google.com/api-keys
+
+4. **Enable the Google Docs API**
    🔗 https://console.cloud.google.com/marketplace/product/google/docs.googleapis.com
 
-4. **Create OAuth credentials**
+5. **Create OAuth credentials**
    Create an OAuth Client ID and Secret so you can link your Google Doc to your n8n flow.
+
+6. **Download Community Nodes to Convert Docx to Text in N8N**
+   n8n-nodes-docx-converter
 
 ---
